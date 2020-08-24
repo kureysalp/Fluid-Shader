@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Portal
+  m_Shader: {fileID: -6465566751694194690, guid: 7fce64bd2612bf44eb805c5fd8988ab2,
+    type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats:
+    - _Color_Amount: 2.98
+    - _Displacement_Multiplier: 0.32
+    - _Distortion_Fresnel_Power: 3.4
+    - _Distortion_Scale: 0.99
+    - _Noise_Fresnel_Power: 0.16
+    - _Noise_Power: 2.17
+    - _Noise_Speed: 0.6
+    - _Refraction_Power: 1.03
+    - _Twirl_Strength: 34.49
+    m_Colors:
+    - _Portal_Color: {r: 0, g: 17.759161, b: 63.999992, a: 1}
