@@ -23,6 +23,9 @@ Material:
     m_Floats:
     - BOOLEAN_B7922ADA: 0
     - ENUM_6B99C3BA: 0
+    - Vector1_3A4931B2: 132.85
+    - Vector1_A9532B28: 85.27
+    - Vector1_F1E786B1: 6.89
     - _: 1
     - _Caustic_Depth: 9.54
     - _Depth: 0.5
@@ -42,6 +45,7 @@ Material:
     - _Strength: 0.26
     - _Water_Tiling_Speed: 0.84
     m_Colors:
+    - Vector2_796F4A35: {r: 1, g: 1, b: 0, a: 0}
     - Vector2_CFDAA394: {r: 0.05, g: 0, b: 0, a: 0}
     - _Base_Color: {r: 0, g: 0, b: 0, a: 0.7529412}
     - _Deep_Water_Color: {r: 0, g: 0.21389468, b: 0.48235294, a: 0.8156863}
