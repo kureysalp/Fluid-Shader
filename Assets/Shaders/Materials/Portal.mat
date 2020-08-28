@@ -36,3 +36,4 @@ Material:
     - _Twirl_Strength: 22.7
     m_Colors:
     - _Portal_Color: {r: 0, g: 17.759161, b: 63.999992, a: 1}
+  m_BuildTextureStacks: []

@@ -23,6 +23,9 @@ Material:
     m_Floats:
     - BOOLEAN_B7922ADA: 0
     - ENUM_6B99C3BA: 1
+    - Vector1_3A4931B2: 5
+    - Vector1_A9532B28: 1
+    - Vector1_F1E786B1: 5
     - _: 1
     - _Depth: 0.82
     - _Displacement_Multiplier: 0.36
@@ -43,8 +46,9 @@ Material:
     m_Colors:
     - Vector2_CFDAA394: {r: 0.04, g: 0, b: 0, a: 0}
     - _Base_Color: {r: 0, g: 0, b: 0, a: 0.7529412}
-    - _Deep_Water_Color: {r: 0.009148094, g: 0.0754717, b: 0, a: 0.9490196}
+    - _Deep_Water_Color: {r: 0.07450981, g: 0, b: 0.016442452, a: 0.9490196}
     - _Edge_Color: {r: 0.73919916, g: 5.6474814, b: 0, a: 1}
     - _Radial_Shear: {r: 0, g: 0, b: 0, a: 0}
     - _Ripple_Color: {r: 0.73919916, g: 5.6474814, b: 0, a: 1}
-    - _Shallow_Water_Color: {r: 0.023529412, g: 0.26666668, b: 0, a: 0.8666667}
+    - _Shallow_Water_Color: {r: 0.2502401, g: 0, b: 0.26666668, a: 0.8666667}
+  m_BuildTextureStacks: []

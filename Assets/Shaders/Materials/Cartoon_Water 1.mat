@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Cartoon_Water 1
+  m_Shader: {fileID: -6465566751694194690, guid: 1b45afbe1f0c4cb4f9e6a4a79613784d,
+    type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats:
+    - BOOLEAN_B7922ADA: 0
+    - ENUM_6B99C3BA: 0
+    - Vector1_3A4931B2: 124.5
+    - Vector1_A9532B28: 89.4
+    - Vector1_F1E786B1: 6.1
+    - _: 1
+    - _Caustic_Depth: 9.54
+    - _Depth: 0.5
+    - _Displacement_Multiplier: 0.95
+    - _Distance: 1.54
+    - _Edge_Amount: 5.4
+    - _Edge_Cutoff: 5.2
+    - _Edge_Scale: 217.91
+    - _Edge_Speed: 0.16
+    - _Metallic: 0.971
+    - _Normal_Strength: 1
+    - _Refraction_Scale: 72.2
+    - _Refraction_Speed: 0.31
+    - _Refraction_Strength: 0.0064
+    - _Ripple_Density: 147.45
+    - _Ripple_Slimness: 8.15
+    - _Strength: 0.26
+    - _Water_Tiling_Speed: 0.61
+    m_Colors:
+    - Vector2_796F4A35: {r: 1, g: 1, b: 0, a: 0}
+    - Vector2_CFDAA394: {r: 0.05, g: 0, b: 0, a: 0}
+    - _Base_Color: {r: 0, g: 0, b: 0, a: 0.7529412}
+    - _Deep_Water_Color: {r: 0, g: 0.19458966, b: 0.48235294, a: 0.6862745}
+    - _Edge_Color: {r: 1, g: 1, b: 1, a: 1}
+    - _Radial_Shear: {r: 0, g: 0, b: 0, a: 0}
+    - _Ripple_Color: {r: 1.1075115, g: 1.2830188, b: 1.2008123, a: 1}
+    - _Shallow_Water_Color: {r: 0.41189036, g: 0.7545409, b: 0.9811321, a: 0.4627451}
+  m_BuildTextureStacks: []

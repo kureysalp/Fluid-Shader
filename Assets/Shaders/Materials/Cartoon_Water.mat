@@ -30,7 +30,7 @@ Material:
     - _Caustic_Depth: 9.54
     - _Depth: 0.5
     - _Displacement_Multiplier: 0.34
-    - _Distance: 2.76
+    - _Distance: 1.59
     - _Edge_Amount: 2.2
     - _Edge_Cutoff: 4.8
     - _Edge_Scale: 29
@@ -53,3 +53,4 @@ Material:
     - _Radial_Shear: {r: 0.5, g: 0.5, b: 0, a: 0}
     - _Ripple_Color: {r: 1, g: 1, b: 1, a: 1}
     - _Shallow_Water_Color: {r: 0.08877714, g: 0.57617974, b: 0.8962264, a: 0.6313726}
+  m_BuildTextureStacks: []

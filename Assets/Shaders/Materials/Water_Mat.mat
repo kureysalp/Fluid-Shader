@@ -44,3 +44,4 @@ Material:
     - _Main_Normal_Tiling: {r: 0.2, g: 0.2, b: 0, a: 0}
     - _Secondary_Normal_Tiling_1: {r: 0.2, g: 0.2, b: 0, a: 0}
     - _Shallow_Water_Color: {r: 0.48126554, g: 0.96409446, b: 0.9716981, a: 0.59607846}
+  m_BuildTextureStacks: []
