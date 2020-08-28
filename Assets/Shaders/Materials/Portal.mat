@@ -19,7 +19,11 @@ Material:
   disabledShaderPasses: []
   m_SavedProperties:
     serializedVersion: 3
-    m_TexEnvs: []
+    m_TexEnvs:
+    - Cubemap_7BFEF583:
+        m_Texture: {fileID: 8900000, guid: e690701916edfff45aab03f2330c2023, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
     m_Floats:
     - _Color_Amount: 2.98
     - _Displacement_Multiplier: 0.32
@@ -28,7 +32,7 @@ Material:
     - _Noise_Fresnel_Power: 0.16
     - _Noise_Power: 2.17
     - _Noise_Speed: 0.6
-    - _Refraction_Power: 1.03
-    - _Twirl_Strength: 34.49
+    - _Refraction_Power: 13.36
+    - _Twirl_Strength: 22.7
     m_Colors:
     - _Portal_Color: {r: 0, g: 17.759161, b: 63.999992, a: 1}

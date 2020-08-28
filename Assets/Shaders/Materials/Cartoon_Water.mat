@@ -23,9 +23,9 @@ Material:
     m_Floats:
     - BOOLEAN_B7922ADA: 0
     - ENUM_6B99C3BA: 0
-    - Vector1_3A4931B2: 132.85
-    - Vector1_A9532B28: 85.27
-    - Vector1_F1E786B1: 6.89
+    - Vector1_3A4931B2: 124.5
+    - Vector1_A9532B28: 89.4
+    - Vector1_F1E786B1: 6.1
     - _: 1
     - _Caustic_Depth: 9.54
     - _Depth: 0.5
